@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 /**
- * Copyright (C) 2019 The XPerience Project
+ * Copyright (C) 2019-2022 The XPerience Project
  *
  * SPDX-License-Identifier: Apache-2.0
  **/
@@ -10,4 +10,12 @@
     <string-array name="themes">
         <item>default</item>
     </string-array>
+
+    <!-- Color section -->
+    <array name="color_bundles">
+        <item>default</item>
+        <item>bundle1</item>
+        <item>bundle2</item>
+        <item>bundle3</item>
+    </array>
 </resources>
